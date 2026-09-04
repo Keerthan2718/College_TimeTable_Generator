@@ -57,6 +57,11 @@ Users can:
 
 ---
 
+## 📸 Demo
+-https://college-time-table-generator.vercel.app/
+
+---
+
 ## 🔄 Application Workflow
 
 ```text
